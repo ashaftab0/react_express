@@ -1,0 +1,42 @@
+.Tablelist_header {
+    padding: 30px 0;
+    font-size: 22px;
+}
+
+table {
+    width:100%;
+    border: 1px solid #a09c9c;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-right: 2px solid #a09c9c;
+    border-bottom: 2px solid #a09c9c;
+    border-collapse: collapse;
+}
+
+th:last-child, td:last-child {
+    border-right: none;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+}
+
+table tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table th {
+    background-color: #ccc;
+}
