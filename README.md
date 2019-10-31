@@ -22,5 +22,5 @@ The page will reload if you make edits.<br />
 ### Validation: Guideline
 1. Cheking all three input fields (name, cardNumber and limit) should not be empty.
 2. Checking if cardNumber is also having more than 10 charcaters.
-3. Checking if cardNumber satisfy Luhn validation example=`4111111111111111`
+3. Checking if cardNumber satisfy Luhn validation example=`9927498718`
 3. Checking Limit is non-negative.
