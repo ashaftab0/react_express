@@ -2,7 +2,7 @@ Go to the 'credit_card_provider', project directory and run the command
 ### npm install
 
 
-Run the backend server
+Run the server
 ### node server.js
 and server will be start running on port:5000 [http://localhost:5000] 
 Open [http://localhost:5000/getAll] to view JSON data in the browser.
@@ -13,15 +13,11 @@ The data will be retained until, manually restart the server
 
 
 ### `npm start`
-Start the project: [ Open different terminal ]
+Start the project: [ Ogipen different terminal ]
 Open [http://localhost:3000] to view it in the browser.
 
 The page will reload if you make edits.<br />
 
-
-### `npm test`
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
 ### Validation: Guideline

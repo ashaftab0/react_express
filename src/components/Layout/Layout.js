@@ -52,7 +52,7 @@ class Layout extends Component {
 
         if (currentData.name === '' || currentData.cardNumber === '' || currentData.limit === '') {
             this.errorMsg = 'No field should be empty';
-        } else if (cardNumber.length !== 16) {
+        } else if (cardNumber.length !== 10) {
             this.errorMsg = 'Card Number must be of 10 characters';
         } else if (!luhn.validate(cardNumber)) {
             this.errorMsg = 'Card Number must satisfy luhn algorithm';
