@@ -1,5 +1,5 @@
 ### `npm install`
-Go to the 'card_provider', project directory and run the command
+Go to the 'react_express', project directory and run the command
 
 
 ### `node server.js`
