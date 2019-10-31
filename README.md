@@ -1,20 +1,19 @@
-Go to the 'credit_card_provider', project directory and run the command
-### npm install
+### `npm install`
+Go to the 'card_provider', project directory and run the command
 
 
-Run the server
-### node server.js
-and server will be start running on port:5000 [http://localhost:5000] 
+### `node server.js`
+Run the server and it will be start running on port:5000 [http://localhost:5000] <br />
 Open [http://localhost:5000/getAll] to view JSON data in the browser.
-OR can be views in the console too.
-But need to refresh the page after every addition of entity.
+OR can be view in the console too.<br />
+But need to refresh the page after every addition of entity.<br />
 
 The data will be retained until, manually restart the server
 
 
 ### `npm start`
-Start the project: [ Ogipen different terminal ]
-Open [http://localhost:3000] to view it in the browser.
+Start the project: [ Open in the different terminal ]<br />
+Open [http://localhost:3000] to view it in the browser.<br />
 
 The page will reload if you make edits.<br />
 
