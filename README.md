@@ -18,9 +18,8 @@ Open [http://localhost:3000] to view it in the browser.<br />
 The page will reload if you make edits.<br />
 
 
-
 ### Validation: Guideline
 1. Cheking all three input fields (name, cardNumber and limit) should not be empty.
 2. Checking if cardNumber is also having more than 10 charcaters.
-3. Checking if cardNumber satisfy Luhn validation example=`9927498718`
+3. Checking if cardNumber satisfy Luhn validation Example=`9927498718`
 3. Checking Limit is non-negative.
